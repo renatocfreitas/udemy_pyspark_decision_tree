@@ -1,0 +1,4 @@
+*.pdf
+.ipynb_checkpoints
+nohup.out
+Logistic_Regression_Consulting_Project_SOLUTIONS.ipynb

@@ -1,0 +1,4 @@
+*.pdf
+.ipynb_checkpoints
+nohup.out
+Tree_Methods_Consulting_Project_SOLUTION.ipynb
